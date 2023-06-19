@@ -1,0 +1,8 @@
+input = 'minecraft.bin'
+threads = 100
+timeout = 10000
+
+[redis]
+addr = 'localhost'
+password = ''
+port = '6379'
